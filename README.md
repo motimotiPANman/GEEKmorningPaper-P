@@ -1,14 +1,9 @@
-# GEEK Morning Paper — Public
+# GEEK Morning Paper
 
-公開用のGEEK朝刊アーカイブです。元の調査台帳は非公開の別リポジトリに保管しています。
+ロボティクス・電子工作・工作機械・ハードウェア改造などの日本語朝刊アーカイブ。
 
-- 日付別HTMLは `daily/YYYY-MM-DD.html` に保存します。
-- 掲載する文章は独自の日本語要約です。
-- 写真や図は利用条件を明確に確認できた場合のみ掲載し、権利不明の画像は原典ページへのリンクのみ掲載します。
-- 記事の真偽、進捗、日付を明示します。
-- 未再検証の過去記事は自動的に公開しません。
-- PDFは作成しません。
+- `index.html`：朝刊一覧
+- `daily/`：日付別のHTML記事
+- `issues.json`：朝刊一覧データ
 
-本リポジトリの公開は、リンク先の写真・図・第三者ソフトウェアの再利用許可を意味しません。
-
-GitHub Pages deployment test
+閲覧サイト：https://motimotipanman.github.io/GEEKmorningPaper-P/
